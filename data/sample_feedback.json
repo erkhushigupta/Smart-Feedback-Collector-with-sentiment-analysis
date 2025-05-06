@@ -1,0 +1,27 @@
+[
+  {
+    "user": "Alice",
+    "feedback": "The bulb is very bright and easy to control with voice!",
+    "timestamp": "2025-05-01T10:30:00Z"
+  },
+  {
+    "user": "Bob",
+    "feedback": "Sometimes it disconnects from WiFi.",
+    "timestamp": "2025-05-02T14:12:00Z"
+  },
+  {
+    "user": "Charlie",
+    "feedback": "Love the color changing feature!",
+    "timestamp": "2025-05-03T18:45:00Z"
+  },
+  {
+    "user": "Dana",
+    "feedback": "Not compatible with my smart home hub.",
+    "timestamp": "2025-05-04T09:05:00Z"
+  },
+  {
+    "user": "Eva",
+    "feedback": "Works great. Would recommend!",
+    "timestamp": "2025-05-05T11:55:00Z"
+  }
+]
